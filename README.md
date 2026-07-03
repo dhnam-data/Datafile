@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhnam-data/Datafile/blob/main/StatisticsHealthCare/13_1_%EC%9D%BC%ED%91%9C%EB%B3%B8_T_%EA%B2%80%EC%A0%95.ipynb)
